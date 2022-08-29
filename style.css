@@ -1,0 +1,59 @@
+body {
+	margin: 0;
+}
+
+#titulo-programadores {
+	background: #10404F;
+	padding: 20px 20px;
+	border: 0;
+	margin: 0;
+	text-align: center;
+	color: #00FF00;
+	text-shadow: 1px 1px 2px black;
+}
+
+.div-programadores {
+	background: url("texture.jpg");
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+ul li {
+	display: inline-block;
+	text-align: center;
+	width: 20%;
+	padding: 1% 2.3% 3.5% 2.3%;
+	vertical-align: top;
+}
+
+.img-programadores {
+	border-radius: 10px;
+}
+
+#titulo-linha-tempo {
+	background: #11404F;
+	padding: 20px 20px;
+	border: 0;
+	margin: 0;
+	text-align: center;
+	color: #00FF00;
+}
+
+.div-linha-tempo {
+	background: url("texture.jpg");
+}
+
+ol {
+	margin: 0;
+
+}
+
+ol li {
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 2;
+	text-shadow: 1px 1px 2px black;
+}
